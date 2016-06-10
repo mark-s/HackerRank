@@ -48,6 +48,7 @@
     <Compile Include="Challenges\PlusMinus.cs" />
     <Compile Include="Challenges\SimpleArraySum.cs" />
     <Compile Include="Challenges\Staircase.cs" />
+    <Compile Include="Challenges\TimeConversion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
