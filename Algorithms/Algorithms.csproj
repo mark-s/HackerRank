@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Implementation\AngryProfessor.cs" />
     <Compile Include="Warmup\AVeryBigSum.cs" />
     <Compile Include="Warmup\DiagonalDifference.cs" />
     <Compile Include="Warmup\PlusMinus.cs" />

@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Implementation\AngryProfessorTests.cs" />
     <Compile Include="Warmup\AVeryBigSumTests.cs" />
     <Compile Include="Warmup\DiagonalDifferenceTests.cs" />
     <Compile Include="Warmup\PlusMinusTests.cs" />
