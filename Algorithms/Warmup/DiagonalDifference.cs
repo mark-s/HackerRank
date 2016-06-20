@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Algorithms.Challenges
+namespace Algorithms.Warmup
 {
 
     // https://www.hackerrank.com/challenges/diagonal-difference

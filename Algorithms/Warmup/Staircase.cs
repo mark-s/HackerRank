@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace Algorithms.Challenges
+namespace Algorithms.Warmup
 {
     // https://www.hackerrank.com/challenges/staircase
     public class Staircase

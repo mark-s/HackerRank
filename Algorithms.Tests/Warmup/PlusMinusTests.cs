@@ -1,9 +1,9 @@
 ﻿using System;
-using Algorithms.Challenges;
+using Algorithms.Warmup;
 using NUnit.Framework;
 using Shouldly;
 
-namespace Algorithms.Tests.Challenges
+namespace Algorithms.Tests.Warmup
 {
     public class PlusMinusTests
     {

@@ -1,4 +1,4 @@
-﻿namespace Algorithms.Challenges
+﻿namespace Algorithms.Warmup
 {
     public class AVeryBigSum
     {

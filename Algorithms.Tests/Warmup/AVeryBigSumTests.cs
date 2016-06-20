@@ -1,19 +1,19 @@
-﻿using Algorithms.Challenges;
+﻿using Algorithms.Warmup;
 using NUnit.Framework;
 using Shouldly;
 
-namespace Algorithms.Tests.Challenges
+namespace Algorithms.Tests.Warmup
 {
 
     [TestFixture]
-    public class SimpleArraySumTests
+    public class AVeryBigSumTests
     {
-        private SimpleArraySum _challenge;
+        private AVeryBigSum _challenge;
 
         [SetUp]
         public virtual void SetUp()
         {
-            _challenge = new SimpleArraySum();
+            _challenge = new AVeryBigSum();
         }
 
 
@@ -22,16 +22,15 @@ namespace Algorithms.Tests.Challenges
         public void SumAll_ValuesFromHR_CorrectOutput()
         {
             // Arrange
-            var numItems = 6;
-            var numbers = new[] {1, 2, 3, 4, 10, 11};
+            var numItems = 5;
+            var numbers = new[] {1000000001, 1000000002, 1000000003, 1000000004, 1000000005L};
 
             // Act
             var result = _challenge.SumAll(numItems, numbers);
 
             // Assert
-            result.ShouldBe(31);
+            result.ShouldBe(5000000015);
         }
-
-
     }
+
 }

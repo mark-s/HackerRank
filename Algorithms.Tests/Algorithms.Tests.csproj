@@ -45,12 +45,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Challenges\AVeryBigSumTests.cs" />
-    <Compile Include="Challenges\DiagonalDifferenceTests.cs" />
-    <Compile Include="Challenges\PlusMinusTests.cs" />
-    <Compile Include="Challenges\SimpleArraySumTests.cs" />
-    <Compile Include="Challenges\StaircaseTests.cs" />
-    <Compile Include="Challenges\TimeConversionTests.cs" />
+    <Compile Include="Warmup\AVeryBigSumTests.cs" />
+    <Compile Include="Warmup\DiagonalDifferenceTests.cs" />
+    <Compile Include="Warmup\PlusMinusTests.cs" />
+    <Compile Include="Warmup\SimpleArraySumTests.cs" />
+    <Compile Include="Warmup\StaircaseTests.cs" />
+    <Compile Include="Warmup\TimeConversionTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

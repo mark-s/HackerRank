@@ -1,4 +1,4 @@
-﻿namespace Algorithms.Challenges
+﻿namespace Algorithms.Warmup
 {
 
     // https://www.hackerrank.com/challenges/simple-array-sum

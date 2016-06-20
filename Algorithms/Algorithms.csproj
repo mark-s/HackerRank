@@ -43,12 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Challenges\AVeryBigSum.cs" />
-    <Compile Include="Challenges\DiagonalDifference.cs" />
-    <Compile Include="Challenges\PlusMinus.cs" />
-    <Compile Include="Challenges\SimpleArraySum.cs" />
-    <Compile Include="Challenges\Staircase.cs" />
-    <Compile Include="Challenges\TimeConversion.cs" />
+    <Compile Include="Warmup\AVeryBigSum.cs" />
+    <Compile Include="Warmup\DiagonalDifference.cs" />
+    <Compile Include="Warmup\PlusMinus.cs" />
+    <Compile Include="Warmup\SimpleArraySum.cs" />
+    <Compile Include="Warmup\Staircase.cs" />
+    <Compile Include="Warmup\TimeConversion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

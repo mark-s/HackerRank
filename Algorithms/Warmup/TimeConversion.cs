@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Algorithms.Challenges
+namespace Algorithms.Warmup
 {
     // https://www.hackerrank.com/challenges/time-conversion
     public class TimeConversion
